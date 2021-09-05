@@ -1,0 +1,197 @@
+# Do not change tags in here without changing every other reference to them.
+# Do not change tags in here without changing every other reference to them.
+# If adding new groups or ideas, make sure they are unique.
+
+### Nation specific idea groups
+
+
+BEA_ideas = {
+	start = {
+		land_morale = 0.2
+		global_manpower_modifier = 0.3
+	}
+
+	bonus = {
+		discipline = 0.1
+	}
+
+	trigger = {
+		tag = BEA
+	}
+
+	African Islands = {
+		range = 0.2
+	}
+	Gold Rush = {
+		global_colonial_growth = 20
+	}
+	Lusitanian Edict = {
+		colonist_placement_chance = 0.1
+	}
+	Colonial Armada = {
+		naval_maintenance_modifier = -0.2
+	}
+	Colonial Tax = {
+		global_tariffs = 0.20
+	}
+	Iberian Ships = {
+		heavy_ship_power = 0.2
+	}
+	Decimatio = {
+		discipline = 0.1
+	}
+}
+
+
+LUS_ideas = {
+	start = {
+		colonists = 1
+		may_explore = yes
+	}
+	
+	bonus = {
+		global_trade_goods_size_modifier = 0.2
+	}	
+
+	trigger = {
+		tag = LUS
+	}
+	free = yes
+	
+	African_Islands = {
+		range = 0.2
+	}
+	Gold_Rush = {
+		global_colonial_growth = 20
+	}
+	Lusitanian_Edict = {
+		colonist_placement_chance = 0.1
+	}
+	Colonial_Armada = {
+		naval_maintenance_modifier = -0.2
+	}
+	Colonial_Tax = {
+		global_tariffs = 0.20
+	}
+	Iberian_Ships = {
+		heavy_ship_power = 0.2
+	}
+	Decimatio = {
+		discipline = 0.1
+	}
+}
+
+
+TAR_ideas = {
+	start = {
+		colonists = 1
+		may_explore = yes
+	}
+	
+	bonus = {
+		global_trade_goods_size_modifier = 0.2
+	}	
+
+	trigger = {
+		tag = TAR
+	}
+	free = yes
+	
+	African_Islands = {
+		range = 0.2
+	}
+	Gold_Rush = {
+		global_colonial_growth = 20
+	}
+	Lusitanian_Edict = {
+		colonist_placement_chance = 0.1
+	}
+	Colonial_Armada = {
+		naval_maintenance_modifier = -0.2
+	}
+	Colonial_Tax = {
+		global_tariffs = 0.20
+	}
+	Iberian_Ships = {
+		heavy_ship_power = 0.2
+	}
+	Decimatio = {
+		discipline = 0.1
+	}
+}
+
+GAL_ideas = {
+	start = {
+		colonists = 1
+		may_explore = yes
+	}
+	
+	bonus = {
+		global_trade_goods_size_modifier = 0.2
+	}	
+
+	trigger = {
+		tag = GAL
+	}
+	free = yes
+	
+	African_Islands = {
+		range = 0.2
+	}
+	Gold_Rush = {
+		global_colonial_growth = 20
+	}
+	Lusitanian_Edict = {
+		colonist_placement_chance = 0.1
+	}
+	Colonial_Armada = {
+		naval_maintenance_modifier = -0.2
+	}
+	Colonial_Tax = {
+		global_tariffs = 0.20
+	}
+	Iberian_Ships = {
+		heavy_ship_power = 0.2
+	}
+	Decimatio = {
+		discipline = 0.1
+	}
+}
+
+GAN_ideas = {
+	start = {
+		colonists = 1
+		may_explore = yes
+	}
+	
+	bonus = {
+		global_trade_goods_size_modifier = 0.2
+	}	
+
+	trigger = {
+		tag = GAN
+	}
+	free = yes
+	
+	African_Islands = {
+		range = 0.2
+	}
+	Gold_Rush = {
+		global_colonial_growth = 20
+	}
+	Lusitanian_Edict = {
+		colonist_placement_chance = 0.1
+	}
+	Colonial_Armada = {
+		naval_maintenance_modifier = -0.2
+	}
+	Colonial_Tax = {
+		global_tariffs = 0.20
+	}
+	Iberian_Ships = {
+		heavy_ship_power = 0.2
+	}
+	Decimatio = {
+		discipline = 0.1
+	}
+}

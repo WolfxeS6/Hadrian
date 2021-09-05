@@ -1,0 +1,7 @@
+#Country Name: Beatica
+
+graphical_culture = westerngfx
+
+color = { 245  235  215 }
+
+historical_council = harsh

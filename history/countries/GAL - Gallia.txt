@@ -1,0 +1,17 @@
+government = monarchy
+mercantilism = 10
+primary_culture = french
+religion = catholic
+technology_group = western
+capital = 4389 # Touraine
+
+1444.1.1 = {
+	monarch = {
+		name = "Marconus"
+		dynasty = "Julius"
+		birth_date = 1391.10.31
+		adm = 4
+		dip = 4
+		mil = 4
+	}
+}

@@ -1,0 +1,17 @@
+government = monarchy
+mercantilism = 10
+primary_culture = catalan
+religion = catholic
+technology_group = western
+capital = 2988 # Tarragona
+
+1444.1.1 = {
+	monarch = {
+		name = "Julius"
+		dynasty = "di Santiago"
+		birth_date = 1391.10.31
+		adm = 2
+		dip = 3
+		mil = 2
+	}
+}

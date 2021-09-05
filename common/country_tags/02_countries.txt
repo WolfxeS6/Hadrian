@@ -1,0 +1,5 @@
+LUS	= "countries/Lusitania.txt"
+BEA	= "countries/Beatica.txt"
+TAR	= "countries/Tarraconensis.txt"
+GAL = "countries/Gallia.txt
+GAN = "countries/Gallia-Narbonensis.txt"

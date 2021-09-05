@@ -1,0 +1,7 @@
+#Country Name: Tarraconensis
+
+graphical_culture = westerngfx
+
+color = { 128  1  32 }
+
+historical_council = harsh

@@ -1,0 +1,7 @@
+#Country Name: Gallia
+
+graphical_culture = westerngfx
+
+color = { 46 110 176 }
+
+historical_council = harsh

@@ -1,0 +1,17 @@
+government = monarchy
+mercantilism = 10
+primary_culture = andalucian
+religion = catholic
+technology_group = western
+capital = 225 # Cordoba
+
+1444.1.1 = {
+	monarch = {
+		name = "Juan Pedro Esteban"
+		dynasty = "di Maria"
+		birth_date = 1391.10.31
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+}

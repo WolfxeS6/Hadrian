@@ -1,0 +1,17 @@
+government = monarchy
+mercantilism = 10
+primary_culture = portugese
+religion = catholic
+technology_group = western
+capital = 227 # Lisboa
+
+1444.1.1 = {
+	monarch = {
+		name = "Duarte"
+		dynasty = "de Avis"
+		birth_date = 1391.10.31
+		adm = 2
+		dip = 3
+		mil = 2
+	}
+}
