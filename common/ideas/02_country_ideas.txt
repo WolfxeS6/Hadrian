@@ -195,3 +195,41 @@ GAN_ideas = {
 		discipline = 0.1
 	}
 }
+
+MAT_ideas = {
+	start = {
+		colonists = 1
+		may_explore = yes
+	}
+	
+	bonus = {
+		global_trade_goods_size_modifier = 0.2
+	}	
+
+	trigger = {
+		tag = GAN
+	}
+	free = yes
+	
+	African_Islands = {
+		range = 0.2
+	}
+	Gold_Rush = {
+		global_colonial_growth = 20
+	}
+	Lusitanian_Edict = {
+		colonist_placement_chance = 0.1
+	}
+	Colonial_Armada = {
+		naval_maintenance_modifier = -0.2
+	}
+	Colonial_Tax = {
+		global_tariffs = 0.20
+	}
+	Iberian_Ships = {
+		heavy_ship_power = 0.2
+	}
+	Decimatio = {
+		discipline = 0.1
+	}
+}

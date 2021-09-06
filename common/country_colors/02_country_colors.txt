@@ -18,3 +18,10 @@ TAR = {
     color2= { 180 0 85  }
     color3= { 255 255 255  }
 }
+
+#Mauritania_Tingitana
+MAT = {
+	color1= { 46 114 55 }
+	color2= { 0 0 0 }
+	color3= { 0 0 0 }
+}
