@@ -5,3 +5,4 @@ GAL = "countries/Gallia.txt
 GAN = "countries/Gallia-Narbonensis.txt"
 GAA = "countries/Gallia-Aquitaine.txt"
 ILY = "countries/Illyricum.txt"
+THR = "countries/Thracia.txt"

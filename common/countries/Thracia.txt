@@ -1,0 +1,5 @@
+#Country Name: Illyricum
+
+graphical_culture = westerngfx
+
+color = { 128  1  32 }
