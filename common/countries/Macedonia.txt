@@ -1,0 +1,5 @@
+#Country Name: Macedonia
+
+graphical_culture = westerngfx
+
+color = { 128  1  32 }
