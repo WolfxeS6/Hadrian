@@ -1,0 +1,7 @@
+#Country Name: Gallia-Narbonensis
+
+graphical_culture = westerngfx
+
+color = { 32 30 65 }
+
+historical_council = harsh

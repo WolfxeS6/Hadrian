@@ -3,3 +3,5 @@ BEA	= "countries/Beatica.txt"
 TAR	= "countries/Tarraconensis.txt"
 GAL = "countries/Gallia.txt
 GAN = "countries/Gallia-Narbonensis.txt"
+GAA = "countries/Gallia-Aquitaine.txt"
+ILY = "countries/Illyricum.txt"

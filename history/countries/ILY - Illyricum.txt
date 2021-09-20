@@ -1,0 +1,7 @@
+government = monarchy
+add_government_reform = feudalism_reform
+mercantilism = 20
+primary_culture = dalmatian
+religion = catholic
+technology_group = eastern
+capital = 137 # Ragusa
